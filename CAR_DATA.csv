@@ -1,0 +1,101 @@
+VIN,category,make,model,year,color,price,is_rented,description
+5XYZT3LB9EG352329,CONVERTIBLE,Scion,xB,2005,Khaki,38.53,false,"Unsp fx upr end r rad, 7thN"
+WA1LMAFE5CD985106,CONVERTIBLE,Infiniti,G,2012,Khaki,57.57,false,"Drown due to fall/jump fr crushed water-skis, subs"
+5UMBT935X6L276569,CONVERTIBLE,Honda,S2000,2005,Yellow,68.8,false,Pain disorders related to psychological factors
+WA1DKBFP5BA969084,CONVERTIBLE,Pontiac,Sunbird,1985,Turquoise,38.77,false,"Burn third deg of shldr/up lmb, ex wrs/hnd, unsp site, subs"
+5GAKVCKD3EJ645689,COUPE,Kia,Optima,2006,Turquoise,62.41,false,Pre-existing essential hypertension comp the puerperium
+1FTEX1C88AF300776,CONVERTIBLE,Ford,Econoline E350,2001,Maroon,29.97,false,Unspecified coma
+3MZBM1K76EM278867,STATION WAGON,Saab,9000,1988,Green,58.47,false,Focal traumatic brain injury
+3C6JD7EP6CG898750,CONVERTIBLE,Saab,9-5,2007,Goldenrod,31.99,false,Other fracture of left patella
+5YMGY0C58DL023858,CONVERTIBLE,Pontiac,Firebird,1991,Violet,37.57,false,First degree hemorrhoids
+WAUHFBFL7DN098917,CONVERTIBLE,Suzuki,Samurai,1993,Teal,14.57,false,"Type A blood, Rh positive"
+4T1BD1FK9FU553447,SEDAN,Kia,Sedona,2003,Crimson,58.42,false,"Displacement of implnt elec nstim of spinal cord lead, init"
+WBAWR3C56AP718764,SEDAN,Mazda,Mazda3,2004,Fuscia,15.3,false,"Nondisp oblique fx shaft of l ulna, 7thQ"
+1N6AA0EC4FN663987,CONVERTIBLE,Suzuki,Kizashi,2011,Mauv,23.35,false,"Pathological fracture in other disease, left fibula"
+2C3CCAKG8FH142819,STATION WAGON,Ford,Tempo,1994,Khaki,34.62,false,Unspecified acquired deformity of unspecified upper arm
+WAUML64BX4N705904,CONVERTIBLE,Fiat,500,2012,Violet,68.7,false,"Lateral dislocation of proximal end of tibia, unsp knee"
+1N4AB7AP7EN939794,STATION WAGON,Infiniti,EX,2012,Purple,59.71,false,"Chorioretinal scars after surgery for detachment, bilateral"
+5UXZV8C57DL602878,CONVERTIBLE,Nissan,Pathfinder,1995,Orange,28.88,false,"Elephantiasis of right eye, unspecified eyelid"
+1G6DK5E33D0181101,COUPE,Bentley,Azure,2007,Orange,68.85,false,"Toxic effect of chlorine gas, undetermined, subs encntr"
+WA1VGAFP5FA987803,CONVERTIBLE,Lexus,GS,2000,Turquoise,33.52,false,"Leakage of umbrella device, subsequent encounter"
+JTHBE1KS5A0243673,CONVERTIBLE,Chrysler,300,2007,Blue,26.64,false,Unsp car occupant injured in collision w van nontraf
+WDDEJ7HB3AA731475,CONVERTIBLE,BMW,M6,2010,Teal,17.66,false,"Hypertrophy of bone, right radius"
+1G4GH5E34CF922789,CONVERTIBLE,Dodge,Ram 3500,1994,Maroon,65.21,false,"Maternal care for oth rhesus isoimmun, unsp tri, fetus 5"
+WVGEP9BP2FD690816,STATION WAGON,Volkswagen,Eurovan,1997,Fuscia,42.3,false,"Stress fracture, unsp toe(s), subs for fx w nonunion"
+1N4AB7AP3EN982237,STATION WAGON,Chevrolet,Express 3500,1996,Purple,48.04,false,"Strain flexor musc/fasc/tend at forarm lv, unsp arm, sequela"
+KMHGC4DE3BU958110,CONVERTIBLE,Volkswagen,Golf,1995,Maroon,61.03,false,Varicos vn of l low extrem w ulc oth prt low extrm & inflam
+ZFBCFADH3EZ140521,CONVERTIBLE,Kia,Carens,2009,Goldenrod,63.55,false,Other sphingolipidosis
+5UXFB535X5L700654,CONVERTIBLE,Toyota,4Runner,1994,Khaki,26.78,false,"Burn of first deg mult left fingers (nail), inc thumb, subs"
+WAUBH78E86A753592,CONVERTIBLE,BMW,Z3,1999,Goldenrod,60.97,false,"Unsp fracture of unsp pubis, subs for fx w delay heal"
+1FTEX1EW2AK167211,CONVERTIBLE,Ford,Laser,1987,Mauv,63.48,false,"Unspecified sprain of unspecified thumb, subs encntr"
+SALWR2VFXFA418070,STATION WAGON,Saab,900,1991,Aquamarine,18.65,false,Other subluxation and dislocation of knee
+1FADP5AU7FL504697,CONVERTIBLE,Cadillac,Escalade ESV,2005,Mauv,50.1,false,"Displ spiral fx shaft of ulna, r arm, 7thR"
+WAUAFAFH2AN564367,STATION WAGON,Pontiac,Grand Am,2004,Teal,49.14,false,"Disp fx of shaft of 2nd MC bone, r hand, 7thD"
+WAUDH94F38N670294,STATION WAGON,BMW,X5,2003,Fuscia,19.66,false,"Extrn constrict of left eyelid and perioculr area, sequela"
+WA1YD64B52N976832,STATION WAGON,Pontiac,Sunfire,2000,Pink,66.47,false,"Displ seg fx shaft of humer, unsp arm, 7thD"
+WAUWGAFB9AN439865,SEDAN,Chevrolet,Suburban,2009,Crimson,36.75,false,"Merkel cell carcinoma of unsp upper limb, including shoulder"
+WAUDF78E07A462925,CONVERTIBLE,BMW,Z4 M,2009,Khaki,45.08,false,"Oth fx upr and low end r fibula, subs for clos fx w malunion"
+1FTWF3B53AE195340,CONVERTIBLE,MINI,Cooper,2003,Aquamarine,68.13,false,Villonodular synovitis (pigmented)
+WAUUL78E46A377383,CONVERTIBLE,Hyundai,Tucson,2011,Violet,57.3,false,"Other physeal fracture of left calcaneus, 7thD"
+WDDJK7DAXFF474639,CONVERTIBLE,BMW,325,2005,Crimson,20.93,false,"Osteophyte, knee"
+WDDHF5KB9EA109707,CONVERTIBLE,GMC,Yukon Denali,2000,Red,24.86,false,"Primary blast injury of right ear, sequela"
+4T1BD1FK5CU865373,CONVERTIBLE,Ram,2500,2011,Turquoise,13.69,false,"Contact w lifting devices, not elsewhere classified, subs"
+JN8AF5MR3DT415489,COUPE,Chevrolet,Express 1500,2009,Fuscia,61.44,false,"Drown d/t being thrown ovrbrd by motion of fish boat, sqla"
+WAUPN94E99N097187,COUPE,Saturn,L-Series,2002,Crimson,22.82,false,"Milt op involving oth conventional warfare, milt, subs"
+2G61W5S87F9683321,CONVERTIBLE,Kia,Rondo,2009,Crimson,60.29,false,Fall on and from scaffolding
+5UMDU93537L549357,STATION WAGON,Ford,Excursion,2001,Crimson,12.54,false,"Subluxation of interphalangeal joint of left great toe, subs"
+1N4AB7AP1DN225979,COUPE,Chevrolet,3500,1999,Mauv,57.1,false,"Chondromalacia patellae, left knee"
+2B3CA9CV2AH678799,SEDAN,Volkswagen,Golf,1985,Fuscia,14.13,false,Abn lev drug/meds/biol subst in specmn from male gntl organs
+2G4WN58C881307337,STATION WAGON,Audi,TT,2006,Puce,59.67,false,"Strain extn/abdr musc/fasc/tend of l thm at forarm lv, init"
+KMHHT6KD1CU542777,CONVERTIBLE,Ford,F250,1999,Yellow,29.8,false,"Chronic osteomyelitis with draining sinus, left humerus"
+KMHTC6AD8CU813751,CONVERTIBLE,Porsche,911,1993,Yellow,30.73,false,"Nondisp spiral fx shaft of ulna, r arm, 7thG"
+WAUUL78E78A483250,CONVERTIBLE,Mercury,Sable,1996,Maroon,56.25,false,Other shellfish poisoning
+JTDKDTB34C1821042,COUPE,Kia,Rio,2010,Blue,37.21,false,"Idiopathic chronic gout, unsp shoulder, without tophus"
+19UUA8F79CA764155,PICKUP TRUCK,Mercedes-Benz,S-Class,1992,Aquamarine,21.66,false,"Unsp traum displ spondylolysis of 4th cervcal vert, 7thK"
+JN8AZ1MUXAW017470,STATION WAGON,Pontiac,Grand Prix,1995,Teal,26.01,false,Intervertebral disc stenosis of neural canal
+WAUKFAFL1DN500656,STATION WAGON,Volkswagen,Passat,2004,Turquoise,55.0,false,"Toxic effect of venom of other snake, assault, init encntr"
+WAUFFBFL3CN749434,CONVERTIBLE,BMW,Z3,2001,Crimson,25.83,false,Superficial foreign body of hand
+1FTWX3A55AE827737,STATION WAGON,Porsche,911,1988,Teal,61.37,false,Laceration without foreign body of unspecified buttock
+1FMEU6DE0AU187195,STATION WAGON,Ford,Mustang,1984,Teal,53.3,false,"Osteitis deformans in neoplastic diseases, left hand"
+1FMHK7B81BG345405,PICKUP TRUCK,Dodge,Ram Van 1500,2001,Fuscia,31.95,false,"Strain of right Achilles tendon, subsequent encounter"
+3FAHP0CG4BR116897,CONVERTIBLE,Ford,Mustang,2008,Pink,45.26,false,Sprain of unspecified parts of lumbar spine and pelvis
+JN1CV6AP8CM373347,COUPE,Ferrari,599 GTB Fiorano,2008,Puce,63.78,false,"Open bite, right elbow, subsequent encounter"
+WBANV93508C752209,STATION WAGON,Chevrolet,Silverado 1500,2010,Mauv,14.48,false,"Oclr lac/rupt w prolaps/loss of intraoc tissue, l eye, sqla"
+WVGFG9BP4CD266828,CONVERTIBLE,Toyota,T100 Xtra,1998,Maroon,24.35,false,"Disease of pericardium, unspecified"
+2B3CJ4DVXAH859182,CONVERTIBLE,Fiat,Nuova 500,2012,Violet,48.81,false,Thromboembolism in the puerperium
+2G4WB52K631950660,SEDAN,Plymouth,Grand Voyager,1997,Goldenrod,40.6,false,"Unsp fracture of T5-T6 vertebra, init for clos fx"
+19UUA76577A641744,CONVERTIBLE,Mitsubishi,Endeavor,2007,Pink,54.98,false,"Inj intercostal blood vessels, left side, init encntr"
+3LN6L2LU8DR236683,COUPE,Buick,LaCrosse,2006,Aquamarine,29.55,false,Personal history of certain other diseases
+WBA3B9C5XFP624145,CONVERTIBLE,Oldsmobile,Silhouette,1998,Green,65.65,false,"Merkel cell carcinoma, unspecified"
+19UUA8F39EA103399,STATION WAGON,Cadillac,Escalade EXT,2004,Yellow,44.25,false,"Other fracture of right foot, 7thK"
+WBSDE93403C908238,CONVERTIBLE,Audi,Q5,2010,Purple,65.13,false,"Displaced avulsion fx right ilium, subs for fx w nonunion"
+3VW507AT2FM457063,STATION WAGON,Infiniti,G,1995,Crimson,12.68,false,"Sprain of interphalangeal joint of left great toe, sequela"
+WAUEFAFL7CA827730,CONVERTIBLE,Lincoln,Navigator,2000,Turquoise,60.06,false,"Disloc of unsp interphaln joint of r little finger, subs"
+2FMDK3AC6AB743910,SEDAN,Ford,Mustang,1964,Goldenrod,19.85,false,"Incomplete atypical femoral fracture, right leg, 7thP"
+1G6DL8EY6B0728336,SEDAN,Aston Martin,DB9,2007,Teal,57.37,false,"Poisoning by enzymes, accidental (unintentional), subs"
+WAUKH78E47A110982,COUPE,Suzuki,SX4,2012,Fuscia,18.88,false,Partial traumatic amputation of right great toe
+WBABD33424J533896,CONVERTIBLE,Mercury,Tracer,1994,Teal,54.55,false,Stromal corneal pigmentations
+1GD11XEG4FF303509,PICKUP TRUCK,Saab,9000,1997,Orange,29.27,false,Other private fixed-wing aircraft crash injuring occupant
+5N1AA0ND7EN288506,CONVERTIBLE,Eagle,Talon,1992,Indigo,68.78,false,"Inhalant use, unspecified with intoxication"
+WA1CMAFE4DD584924,CONVERTIBLE,Audi,100,1992,Maroon,16.21,false,"Injury of lumbar, sacral and pelvic sympathetic nerves"
+WA1CGBFE4BD834348,CONVERTIBLE,Honda,Civic,2012,Fuscia,10.61,false,"Laceration without foreign body, unspecified hip"
+WBAUP7C57DV522465,CONVERTIBLE,Jeep,Wrangler,2009,Orange,48.29,false,Benign neoplasm of testis
+1G6DL1ED9B0160829,SEDAN,Toyota,Tacoma Xtra,2003,Red,28.97,false,"Oth mental disorders comp pregnancy, chldbrth, and the puerp"
+WAUAFAFL5AN860598,CONVERTIBLE,Ford,Explorer Sport,2002,Pink,11.28,false,"Other dislocation of unspecified knee, subsequent encounter"
+3C6TD5CTXCG299699,COUPE,Ford,F350,2000,Violet,43.91,false,"Unsp fx shaft of unsp fibula, subs for clos fx w routn heal"
+KNDJT2A14B7338557,CONVERTIBLE,GMC,Suburban 1500,1994,Blue,58.21,false,"Open bite, left foot"
+1FTEX1CM9DF545166,CONVERTIBLE,Mazda,MPV,1995,Maroon,22.85,false,"Oth injury of unspecified vertebral artery, subs encntr"
+WAURV78T58A711261,CONVERTIBLE,Saturn,S-Series,1994,Puce,23.53,false,Aneurysm of other precerebral arteries
+1GTC5MF92B8923256,COUPE,Mercury,Montego,2006,Orange,34.19,false,"Nondisp Maisonneuve's fx unsp leg, init for opn fx type I/2"
+SCBCR63W34C096641,CONVERTIBLE,Nissan,Titan,2005,Indigo,23.06,false,"Legal intervnt w injury by mch gun, bystand injured, init"
+KMHCT4AE3DU248128,STATION WAGON,Subaru,Legacy,1991,Crimson,51.18,false,"Trisomy 18, unspecified"
+WBA3A9C55DF190898,CONVERTIBLE,Mercury,Mariner,2008,Pink,18.35,false,Mechanical ptosis of left eyelid
+JH4NA12622T698010,CONVERTIBLE,Toyota,Supra,1992,Maroon,14.06,false,"Peripheral corneal degeneration, unspecified eye"
+WAURV78TX9A807016,CONVERTIBLE,Plymouth,Fury,1964,Green,47.32,false,"Injury of nerves at wrs/hnd lv of unsp arm, sequela"
+JH4DC53036S010115,STATION WAGON,Ford,F150,2000,Yellow,64.5,false,"Nondisp fx of med condyle of r humer, subs for fx w nonunion"
+WAUHFBFL6DN620968,CONVERTIBLE,Chevrolet,Corsica,1993,Indigo,19.96,false,"Displ suprcndl fx w/o intrcndl extn low end r femr, 7thM"
+2LMHJ5AR7AB699802,CONVERTIBLE,Audi,S4,2004,Goldenrod,19.66,false,"Unsp injury of intercostal blood vessels, unsp side, subs"
+JHMZF1D60ES655859,STATION WAGON,Ford,Focus ST,2013,Indigo,50.97,false,"Disp fx of greater trochanter of r femr, 7thC"
+WDDGF4HB3CR292629,STATION WAGON,Ford,Escape,2012,Purple,41.31,false,"Poisoning by tetracyclines, intentional self-harm, sequela"
+WAUNF78P18A395078,CONVERTIBLE,Suzuki,Sidekick,1989,Khaki,23.42,false,"Poisoning by diagnostic agents, undetermined"
+5BZAF0AA4EN064949,COUPE,Dodge,Caravan,1994,Goldenrod,45.72,false,Laceration without foreign body of vocal cord
